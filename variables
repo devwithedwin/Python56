@@ -22,6 +22,7 @@ location_allocated = "Enchated Forest"
 character_weapon = "Bow"
 
 print("===================================")
+#(\n) ARE USED TO PUSH THE LINE OF CODE TO THE NEXT LINE
 print("\n Welcome to☠️,☠️,☠️", game_title, "!\n")
 print("===================================")
 print("You are",game_character,"the",character_role)
