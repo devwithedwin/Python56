@@ -14,7 +14,7 @@ health = 5
 
 print("Welcome",username, "to GlamNest.","Your health is",health, "at the age of:", age)
 
-#Game intro exercise
+#Game intro Exercise2
 game_title = "Lord's Mobile"
 game_character = "Leo"
 character_role = "Royal Guard"
