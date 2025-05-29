@@ -224,4 +224,4 @@ while health > 0:
         print("Game Over! You’ve been defeated.")
         break
 # Note: This code demonstrates the use of loops, conditionals, and user input to create a simple text-based adventure game.
-# The player can explore, rest, or quit the game, with health management included.
+# The player can explore, rest, or quit the game, with health management included. 
